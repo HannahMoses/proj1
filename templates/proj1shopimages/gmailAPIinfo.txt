@@ -8,4 +8,6 @@ Product logo URL :https://github.com/HannahMoses/proj1/blob/master/templates/pro
 client ID
 587907858568-sbga5v6l84nfcjtrdhd03cck5pm0v6tt.apps.googleusercontent.com
 
-client secret :  Ddsxnd37kySMwD7BIpZAJBZZ
+client secret :  Ddsxnd37kySMwD7BIpZAJBZZ is downloaded into the folder
+                 C:\Users\cody\Downloads
+                 when I press downloadJSON button on credentials screen3:23 PM 7/26/2017
