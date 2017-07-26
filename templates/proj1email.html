@@ -1,3 +1,4 @@
+
 <DOCTYPE html>
     <html>
 <head>
@@ -5,9 +6,14 @@
 <link rel="stylesheet" href="proj1styling/proj1style2.css">
 </head>
 <body>
-        <label type="text" style="display:inline-block;width:150px;color:pink">Enter your email :</label>
-        <input type="text" name="email" "><br><br>
-    
-  <p1> Email has been sent !<p1>
+    <div id="slist">Email Page</div><br>
+    <p1 id="myemail"></p1><br>
+       <script>
+       function displayemail(){
+           var email = prompt( "Enter your email ", "");
+           document.getElementById("myemail").innerHTML = email;
+           }
+       </script>
+<button class="button" onclick= "displayemail()">Click to enter email</button><br><br>
 </body>
 </html>
