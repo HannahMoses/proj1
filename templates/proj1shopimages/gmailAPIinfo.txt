@@ -1,0 +1,11 @@
+
+gmail API 2:39 PM 7/26/2017
+email : LCoder2016fall@gmail J1%29
+Product name : curos
+HomePage URL :https://github.com/HannahMoses/proj1.git
+Product logo URL :https://github.com/HannahMoses/proj1/blob/master/templates/proj1shopimages/proj1logo.jpg
+
+client ID
+587907858568-sbga5v6l84nfcjtrdhd03cck5pm0v6tt.apps.googleusercontent.com
+
+client secret :  Ddsxnd37kySMwD7BIpZAJBZZ
