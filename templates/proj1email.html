@@ -7,6 +7,41 @@
 </head>
 <body>
     <div id="slist">Email Page</div><br>
+    <script>
+        function mypwd(){
+            var pwd = prompt( "Enter your password ", "");
+            document.getElementById("userpwd").innerHTML =("If "+"  " +" '  " + pwd+" "+" '  is the correct password, click 'send'.");
+
+           }
+           function myemail(){
+               var email = prompt( "Enter your email ", "");
+               document.getElementById("useremail").innerHTML = ("If "+"  " +" '  " + email+" "+" '  is the correct email enter your  password.");
+
+           }
+       </script>
+<button class="button" onclick= "myemail()">Click to enter email</button><br><br>
+  <div id="useremail"></div>
+<button class="button" onclick= "mypwd()">Click to enter password</button><br><br>
+  <div id="userpwd"></div>
+<div><a href="http://localhost:8000/quickstart.html"><h2> Send</div></a>
+
+</body>
+</html>
+
+    <!--   <p id="useremail">Is this the correct email ?</p>
+     <p1 id="userverifies">     <button style="color:green">YES</button>
+            <button style="color:red">NO</button></p1> -->
+
+
+
+<!--<DOCTYPE html>
+    <html>
+<head>
+     <title> This page is displayed when user presses email my list button</title>
+<link rel="stylesheet" href="proj1styling/proj1style2.css">
+</head>
+<body>
+    <div id="slist">Email Page</div><br>
     <p1 id="myemail"></p1><br>
        <script>
        function displayemail(){
@@ -16,4 +51,4 @@
        </script>
 <button class="button" onclick= "displayemail()">Click to enter email</button><br><br>
 </body>
-</html>
+</html>-->

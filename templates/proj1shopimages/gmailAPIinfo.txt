@@ -11,3 +11,7 @@ client ID
 client secret :  Ddsxnd37kySMwD7BIpZAJBZZ is downloaded into the folder
                  C:\Users\cody\Downloads
                  when I press downloadJSON button on credentials screen3:23 PM 7/26/2017
+
+*********************
+Gitbash activity is in the file 
+E:\Imp\proj1\gitFiles\proj1GITcommands2017Jul26wed3p28
